@@ -1,4 +1,4 @@
 ﻿APP_NAME=STAR-Civil
 ENV=DEV
-DB_CONNECTION=Server=localhost;Database=RegistroCivilDB;User Id=usuario;Password=clave;
 LOG_LEVEL=INFO
+DB_CONNECTION=Server=localhost;Database=RegistroCivilDB;User Id=usuario;Password=clave;
