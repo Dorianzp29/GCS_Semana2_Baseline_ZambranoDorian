@@ -11,3 +11,5 @@ RF-06: El sistema debe permitir marcar un turno como atendido o no presentado.
 ## Requisitos no funcionales (RNF)
 RNF-01: El sistema debe registrar auditoría de creación, cancelación y atención de turnos.
 RNF-02: El sistema debe mantener estabilidad en ejecución local evitando pérdida de información.
+
+RF-07: El sistema debe permitir reprogramar un turno antes de la fecha asignada.
